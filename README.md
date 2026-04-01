@@ -16,3 +16,35 @@ Age, Job, Marital Status
 Balance, Loan, Contact Type
 Campaign-related attributes
 
+2. Data Preprocessing
+Converted target variable (yes/no) → (1/0)
+Handled categorical variables using one-hot encoding
+Checked for missing values and cleaned data
+
+3. Feature Engineering
+Transformed categorical features into numerical format
+Selected relevant features for model training
+
+4. Train-Test Split
+Training Set: 80%
+Testing Set: 20%
+
+
+5. Model Building
+Algorithm: Logistic Regression
+Used sigmoid function to estimate probability
+6. Model Training
+Trained the model on training data
+Learned coefficients for each feature
+
+7. Prediction
+Predicted probabilities for test data
+Applied threshold (0.5) to classify outputs
+
+8. Evaluation
+Accuracy Score
+Confusion Matrix
+Precision, Recall, F1-score
+
+
+
