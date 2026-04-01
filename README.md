@@ -46,5 +46,11 @@ Accuracy Score
 Confusion Matrix
 Precision, Recall, F1-score
 
-
+Findings
+Logistic Regression performs well for this binary classification task
+Key factors influencing subscription:
+Call duration
+Previous campaign outcome
+Account balance
+Loan status
 
