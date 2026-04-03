@@ -1,5 +1,5 @@
 # Problem-Dataset-01
-🧠 Approach
+🧠 Approach 
 
 This project is designed as a binary image classification problem, where the goal is to classify chest X-ray images into two categories:
 
