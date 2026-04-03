@@ -26,7 +26,7 @@ extract_path = '/content/dataset'
 with zipfile.ZipFile(zip_path, 'r') as zip_ref:
     zip_ref.extractall(extract_path)
 
-print("Unzip Done ✅")
+print("Unzip Done ")
 
 import tensorflow as tf
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
