@@ -4,7 +4,7 @@
 This project is designed as a binary image classification problem, where the goal is to classify chest X-ray images into two categories:
 
 Normal
-Pneumonia
+Pneumonia 
 
 A Convolutional Neural Network (CNN) is used because it is highly effective in extracting spatial features from images such as edges, textures, and patterns. The model learns directly from pixel data without requiring manual feature extraction.
 
